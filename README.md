@@ -14,4 +14,5 @@ Las tecnologías que he usado para este proyecto son Astro para el frontend, un 
 Luego use como base de datos una instancia de MySQL, una base de datos muy sencilla de usar y que he trabajado con ella anteriormente por lo que fue la opción idónea
 ![enter image description here](https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400@2x-1_0.png)
 Ahora sé que existen varias maneras de crear PDF, pero la opción más sencilla que encontré es usar wkhtmltopdf un software open-source que sirve para convertir HTML a PDF, por lo que me permitía rellenar una plantilla de una factura html con los datos de la factura, y luego convertirla a PDF 
+
 ![enter image description here](https://ourcodeworld.com/public-media/articles/articleocw-590c895c5d17d.png)
